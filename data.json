@@ -81,14 +81,5 @@
     "scripts": [
       "print('Arsenal Script')"
     ]
-  },
-  {
-    "id": "bedwars",
-    "title": "BedWars - Aura",
-    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=2070&auto=format&fit=crop",
-    "description": "ตีไกล ตีรัว",
-    "scripts": [
-      "print('Bedwars Script')"
-    ]
   }
 ]
