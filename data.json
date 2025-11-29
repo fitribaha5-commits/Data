@@ -1,15 +1,5 @@
 [
   {
-    "id": "99nihtg",
-    "title": "Blox Fruits - Auto Farm",
-    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=2070&auto=format&fit=crop",
-    "description": "สคริปต์ออโต้ฟาร์มที่ดีที่สุด ฟาร์มไว ไม่มีหลุด รองรับทุกเกาะ",
-    "scripts": [
-      "loadstring(game:HttpGet('https://raw.githubusercontent.com/script1/main.lua'))()",
-      "print('Script 2 Loaded') -- ตัวอย่างสคริปต์ที่ 2"
-    ]
-  },
-  {
     "id": "king-legacy-v2",
     "title": "King Legacy - God Mode",
     "image": "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?q=80&w=2070&auto=format&fit=crop",
@@ -37,7 +27,7 @@
     "scripts": [
       "loadstring(game:HttpGet('https://bladeball.xyz/script.lua'))()"
     ]
-  }, 
+  },
   {
     "id": "pet-sim-99",
     "title": "Pet Simulator 99",
@@ -47,7 +37,7 @@
       "print('Pet Sim Script')"
     ]
   },
-   {
+  {
     "id": "doors",
     "title": "DOORS - ESP & Full Bright",
     "image": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=1947&auto=format&fit=crop",
@@ -56,7 +46,7 @@
       "loadstring(game:HttpGet('https://doors.xyz/main.lua'))()"
     ]
   },
-   {
+  {
     "id": "brookhaven",
     "title": "Brookhaven RP - Admin",
     "image": "https://images.unsplash.com/photo-1614726365723-49cfae963956?q=80&w=2070&auto=format&fit=crop",
@@ -65,7 +55,7 @@
       "print('Admin Commands Loaded')"
     ]
   },
-   {
+  {
     "id": "mm2",
     "title": "Murder Mystery 2",
     "image": "https://images.unsplash.com/photo-1612287230217-969d69cbb586?q=80&w=2070&auto=format&fit=crop",
@@ -74,7 +64,7 @@
       "print('MM2 Script')"
     ]
   },
-   {
+  {
     "id": "da-hood",
     "title": "Da Hood - Aimlock",
     "image": "https://images.unsplash.com/photo-1627856014759-2a01d4739dd1?q=80&w=1935&auto=format&fit=crop",
@@ -83,7 +73,7 @@
       "print('Aimlock Enabled')"
     ]
   },
-   {
+  {
     "id": "arsenal",
     "title": "Arsenal - Aimbot",
     "image": "https://images.unsplash.com/photo-1542751110-97427bbecf20?q=80&w=1984&auto=format&fit=crop",
@@ -92,7 +82,7 @@
       "print('Arsenal Script')"
     ]
   },
-   {
+  {
     "id": "bedwars",
     "title": "BedWars - Aura",
     "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=2070&auto=format&fit=crop",
