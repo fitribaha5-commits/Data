@@ -1,0 +1,23 @@
+[
+  {
+    "id": "da-hood",
+    "title": "Blox Fruits | บล็อคฟุต",
+    "image": "https://tr.rbxcdn.com/180DAY-8410cf5e1bbd7011ac338cb3a74e9f4d/512/512/Image/Webp/noFilter",
+    "description": "สคริปออโต้ทำเควสและออโต้ทำอื่นๆ",
+    "scripts": [
+      "getgenv().Version = \"V4\"",
+      "getgenv().Team = \"Marines\"",
+      "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/TlDinhKhoi/Xeter/refs/heads/main/Main.lua\"))()",
+      "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/fakekuri/Okhubhere/refs/heads/main/MainBloxFruit.lua\"))()"
+    ]
+  },
+  {
+    "id": "99night",
+    "title": "99 คืน",
+    "image": "https://tr.rbxcdn.com/180DAY-643b9b9285f3bd9b63cf392db12a4d87/768/432/Image/Webp/noFilter",
+    "description": "ดึงไอเทมมา ออโต้ตัดต้นไม้, ฆ่าอัตโนมัติ, วาป (ไม่มีคีย์)",
+    "scripts": [
+      "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/VapeVoidware/VWExtra/main/NightsInTheForest.lua\", true))()"
+    ]
+  }
+]
